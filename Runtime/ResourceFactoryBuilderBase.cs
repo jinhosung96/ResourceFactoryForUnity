@@ -1,4 +1,4 @@
-namespace MoraeGames.Library.Manager.ResourceFactory
+namespace JHS.Library.ResourceFactory.Runtime
 {
     public class ResourceFactoryBuilderBase<T> where T : ResourceFactoryBuilderBase<T> 
     {

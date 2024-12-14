@@ -8,7 +8,7 @@ using R3.Triggers;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace MoraeGames.Library.Manager.ResourceFactory
+namespace JHS.Library.ResourceFactory.Runtime
 {
     public class ResourcePoolFactory<T> : ResourceFactory<T>, IDisposable where T : Object
     {
